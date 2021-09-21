@@ -1,0 +1,9 @@
+.container {
+  display: grid;
+  height: 90vh;
+}
+
+.text {
+  margin: auto;
+  font-size: 40vmin;
+}
